@@ -1,0 +1,76 @@
+Course,Title,Prereqs,Coreqs,Successors,Terms offered,Open to non-CS majors
+CS100,Introduction to Computing through Applications,None,None,CS 200,Fall/winter/spring,Yes
+CS105,Introduction to Computer Programming 1,None,None,"CS 106,  CS 330",Fall,Yes
+CS106,Introduction to Computer Programming 2,CS 105,None,CS 330,Winter,Yes
+CS115,Introduction to Computer Science 1,None,None,CS 116,Fall/winter/spring,Yes
+CS116,Introduction to Computer Science 2,CS 115 or  CS 135 or CS 145,None,"CS 136,  CS 230,  CS 234,  CS 330,  CS 335,  CS 371",Fall/winter/spring,Yes
+CS135,Designing Functional Programs,None,None,"CS 116,  CS 136, CS 146",Fall/winter,Yes
+CS136,Elementary Algorithm Design and Data Abstraction,90%+ in CS 115 or 70%+ in CS 116 or 60%+ in CS 135 or CS 145.,None,"CS 230,  CS 231,  CS 234,  CS 241,  CS 245,  CS 246,  CS 251,  CS 330,  CS 335,  CS 371",Fall/winter/spring,Yes
+CS145,Designing Functional Programs (advanced level),None,None,"CS 136,  CS 146",Fall,Yes
+CS146,Elementary Algorithm Design and Data Abstraction (advanced level),75%+ in CS 145 or sufficiently high grade in CS 135,None,"CS 230,  CS 234,  CS 245,  CS 246,  CS 251,  CS 330,  CS 335,  CS 371",Winter,Yes
+CS200,Concepts for Advanced Computer Usage, ,None, ,Winter/spring,Yes
+CS230,Introduction to Computers and Computer Systems,"One of CS 116, CS 136, CS 146",None,"CS 338,  CS 436",Winter/spring,Yes
+CS231,Algorithmic Problem Solving,"One of CS 116, CS 136, CS 146",None,"CS 338,  CS 370,  CS 431,  CS 487",Spring,Yes
+CS234,Data Types and Structures,"One of CS 116, CS 136, CS 146",None,"CS 338,  CS 370,  CS 487",Fall/spring,Yes
+CS240,Data Structures and Data Management,"CS 245, CS 246, and one of STAT 206, STAT 230, STAT 240",None,"CS 341,  CS 348,  CS 350,  CS 360,  CS 365,  CS 383,  CS 398,  CS 399,  CS 442,  CS 449,  CS 487,  CS 492",Fall/winter/spring,No
+CS240E,Data Structures and Data Management (Enriched),"(85%+ in CS 245 or SE 212), (85%+ in CS 246 or 241), (one of STAT 206, 230, or 240)",None,"CS 341,  CS 348,  CS 350,  CS 360,  CS 365,   CS 383,  CS 398,  CS 399,  CS 442,  CS 449,  CS 487,  CS 492",As permitted by demand and available resources,No
+CS241,Foundations of Sequential Programs,(CS 138 or 246) or (85%+ in CS 136 or 146),None,"CS 349,CS 350,  CS 360,  CS 365,CS 370,CS 436,  CS 449",Fall/winter/spring,No
+CS241E,Foundations of Sequential Programs (Enriched),"85%+ in CS 136, 146, or 138",None,"CS 349,CS 350,  CS 360,  CS 365,CS 370,CS 436,  CS 449",As permitted by demand and available resources,No
+CS245,Logic and Computation,CS 136 or CS 146 and MATH 135,None,"CS 240,  CS 450",Fall/winter/spring,Yes
+CS245E,Logic and Computation  (Enriched),85%+ in CS 136 or 146,None,"CS 240,  CS 450",As permitted by demand and available resources,No
+CS246,Object-Oriented Software Development,60%+ in CS 136 or CS 146,None,"CS 240,  CS 241,  CS 338,  CS 350,  CS 370,  CS 398,  CS 399,  CS 436,  CS 457",Fall/winter/spring,Yes
+CS246E,Object-Oriented Software Development (Enriched),85%+ in CS 136 or 146,None,"CS 240,  CS 241,  CS 338,  CS 350,  CS 370,  CS 398,  CS 399,  CS 436,  CS 457",As permitted by demand and available resources,No
+CS251,Computer Organization and Design,"CS 136, 138 or 146",None,"CS 350,  CS 431,  CS 436,",Fall/Winter/Spring,No
+CS330,Management Information Systems,"​CS 106, CS 116, CS 136 or CS 146; level at least 2B",None,"CS 338,  CS 430,  CS 431,  CS 432",Fall/winter/spring,Yes
+CS335,Computational Methods in Business and Finance,"CS 116, CS 136 or CS 146; MATH 136 or 146, MATH 237 or 247, and STAT 231 or 241",None,None,Fall/winter,Yes
+CS338,Computer Applications in Business: Databases,"One of CS 230, CS 234, CS 246, CS 330",None,None,Fall/winter/spring,Yes
+CS341,Algorithms,CS 240 and MATH 239,None,"CS 431,  CS 451,  CS 466,  CS 480,  CS 482,  CS 485,  CS 486,  CS 488,  CS 493",Fall/winter/spring,No
+CS343,Concurrent and Parallel Programming,CS 350,None,None,Fall/winter,No
+CS348,Introduction to Database Management,CS 240,None,"CS 448,  CS 451",Fall/winter/spring,No
+CS349,User Interfaces,"CS 241 and one of MATH 115, MATH 136, MATH 146",None,None,Fall/winter/spring,No
+CS350,Operating Systems,"CS 240,CS 241, CS 246, and (CS 251 or ECE 222)",None,"CS 343,  CS 444,  CS 445,  CS 446,  CS 447,  CS 448,  CS 450,  CS 451,  CS 452,    CS 454,  CS 456,  CS 458,  CS 488,  CS 490,  CS 493",Fall/winter/spring,No
+CS360,Introduction to the Theory of Computing,"CS 240, CS 241, and MATH 239",None,CS 462,Fall/winter/spring,No
+CS365,Models of Computation,"CS 240, CS 241, and MATH 239",None,CS 462,Winter,No
+CS370,Numerical Computation,"One of MATH 118, 119, 128, 138, 148; one of MATH 106, 114, 115, 136, 146; and one of CS 231, CS 234, CS 241, CS 246",None,"CS 475,  CS 476,  CS 484,  CS 488",Fall/winter/spring,Yes
+CS371,Introduction to Computational Mathematics,"One of CS 116, CS 136, CS 146; MATH 235 or 245, and MATH 237 or 247",None,"CS 475,  CS 476,  CS 484,  CS 488",Winter/spring,Yes
+CS383,Computational Digital Art Studio,"CS 240, FINE 229, 257",None,None,Winter,Yes
+CS398,Topics in Computer Science,CS 240 and (CS 246 or 247),None,None,On demand,No
+CS399,Readings in Computer Science,CS 240 and (CS 246 or 247),None,None,On demand,No
+CS430,Applications Software Engineering,CS 330 and at least level 3A,None,None,Fall/winter,Yes
+CS431,Data-Intensive Distributed Analytics,(CS 231 or 234 or 341) and (CS 251 or 330 ),None,None,Winter/spring,Yes
+CS432,Business Systems Analysis,CS 330 and at least level 3A,None,None,Fall/spring,Yes
+CS436,Networks and Distributed Computer Systems,"One of CS 230, CS 241, CS 246, CS 251",None,None,Winter,Yes
+CS442,Principles of Programming Languages,CS 240,None,None,Winter,No
+CS444,Compiler Construction,CS 350,None,None,Winter,No
+CS445,Software Requirements Specification and Analysis,CS 350,None,None,Fall/sinter,No
+CS446,Software Design and Architectures,CS 350,None,None,Winter/spring,No
+CS447,"Software Testing, Quality Assurance and Maintenance",CS 350,None,None,Winter,No
+CS448,Database Systems Implementation,CS 348 and CS 350,None,None,Winter,No
+CS449,Human-Computer Interaction,"CS 240, CS 241, and at least level at 3B",None,None,No term specified,No
+CS450,Computer Architecture,CS 350 or SE 350,None,None,Winter,No
+CS451,Data-Intensive Distributed Computing,"CS 341, 348 and (CS 350 or SE 350)",None,None,Winter/spring,No
+CS452,Real-Time Programming,CS 350,None,None,Winter/spring,No
+CS454,Distributed Systems,CS 350,None,None,Winter/spring,No
+CS456,Computer Networks,CS 350,None,None,Fall/winter/spring,No
+CS457,System Performance Evaluation,"(CS 246 or CS 247) and STAT 206, 231 or 241",None,None,No term specified,No
+CS458,Computer Security and Privacy,CS 350,None,None,Fall/winter/spring,No
+CS462,Formal Languages and Parsing,CS 360 or CS 365,None,None,No term specified,No
+CS466,Algorithm Design and Analysis,CS 341,None,None,Fall/spring,No
+CS467,Introduction to Quantum Information Processing,"One of MATH 114, 115, 235 or 245; and at least level 4A",None,None,Winter,Yes
+CS475,Computational Linear Algebra,CS 370 or CS 371,None,None,Spring,Yes
+CS476,Numeric Computation for Financial Modeling,CS 370 or CS 371 and STAT 231 or 241,None,None,Winter,Yes
+CS480,Introduction to Machine Learning,CS 341 and (STAT 206 or 231 or 241),None,None,Fall/winter/spring,No
+CS482,Computational Techniques in Biological Sequence Analysis,"CS 341, STAT 241 or at least 60% in STAT 231",None,None,Winter,Yes
+﻿﻿CS484,Computational Vision,CS 370 or CS 371 and STAT 230 or 240,None,None,No term specified,No
+CS485,Statistical and Computational Foundations of Machine Learning,CS 341 and (STAT 206 or 230 or 240,None,None,No term specified,No
+CS486,Introduction to Artificial Intelligence,CS 341,STAT 206 or 231 or 241,None,Fall/winter/spring,No
+CS487,Introduction to Symbolic Computation,"CS 231, CS 234 or CS 240",None,None,Winter,Yes
+CS488,Introduction to Computer Graphics,(CS 341 and SE 240) and (CS 350 or SE 350) and (CS 370 or CS 371),None,None,Fall/winter/spring,No
+CS489,Advanced Topics in Computer Science,Level at least 3B,None,None,No term specified,No
+CS490,Information Systems Management,CS 350,None,None,Winter/spring,No
+CS492,The Social Implications of Computing,CS 240,None,None,Winter/spring,No
+CS493,Team Project 1,"CS 341, CS 350",None,CS 494,Fall,No
+CS494,Team Project 2,CS 493,None,None,Winter,No
+CS497,Multidisciplinary Studies in Computer Science,Level at least 3B,None,None,No term specified,No
+CS499R,Readings in Computer Science,Level at least 3B,None,CS 499T,On demand,No
+CS499T,Honours Thesis, ,None,None,On demand,No
